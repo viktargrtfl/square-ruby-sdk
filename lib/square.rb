@@ -18,6 +18,7 @@ require_relative 'square/http/http_method_enum'
 require_relative 'square/http/http_request'
 require_relative 'square/http/http_response'
 require_relative 'square/http/auth/o_auth2'
+require_relative 'square/http/auth/bearer_auth_credentials'
 
 # Models
 
